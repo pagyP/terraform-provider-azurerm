@@ -152,7 +152,7 @@ github.com/hashicorp/go-azure-helpers/resourcemanager/tags
 github.com/hashicorp/go-azure-helpers/resourcemanager/zones
 github.com/hashicorp/go-azure-helpers/sender
 github.com/hashicorp/go-azure-helpers/storage
-# github.com/hashicorp/go-azure-sdk/resource-manager v0.20240610.1112704
+# github.com/hashicorp/go-azure-sdk/resource-manager v0.20240617.1101532
 ## explicit; go 1.21
 github.com/hashicorp/go-azure-sdk/resource-manager/aad/2021-05-01/domainservices
 github.com/hashicorp/go-azure-sdk/resource-manager/aadb2c/2021-04-01-preview
@@ -518,17 +518,19 @@ github.com/hashicorp/go-azure-sdk/resource-manager/eventgrid/2022-06-15/systemto
 github.com/hashicorp/go-azure-sdk/resource-manager/eventgrid/2022-06-15/topics
 github.com/hashicorp/go-azure-sdk/resource-manager/eventgrid/2022-06-15/topictypes
 github.com/hashicorp/go-azure-sdk/resource-manager/eventgrid/2022-06-15/verifiedpartners
-github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2021-11-01/authorizationruleseventhubs
 github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2021-11-01/authorizationrulesnamespaces
-github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2021-11-01/checknameavailabilitydisasterrecoveryconfigs
-github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2021-11-01/consumergroups
-github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2021-11-01/disasterrecoveryconfigs
 github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2021-11-01/eventhubs
-github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2021-11-01/eventhubsclusters
-github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2021-11-01/namespaces
-github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2021-11-01/networkrulesets
-github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2021-11-01/schemaregistry
 github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2022-01-01-preview/namespaces
+github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2024-01-01/authorizationruleseventhubs
+github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2024-01-01/authorizationrulesnamespaces
+github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2024-01-01/checknameavailabilitydisasterrecoveryconfigs
+github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2024-01-01/consumergroups
+github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2024-01-01/disasterrecoveryconfigs
+github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2024-01-01/eventhubs
+github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2024-01-01/eventhubsclusters
+github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2024-01-01/namespaces
+github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2024-01-01/networkrulesets
+github.com/hashicorp/go-azure-sdk/resource-manager/eventhub/2024-01-01/schemaregistry
 github.com/hashicorp/go-azure-sdk/resource-manager/extendedlocation/2021-08-15/customlocations
 github.com/hashicorp/go-azure-sdk/resource-manager/fluidrelay/2022-05-26
 github.com/hashicorp/go-azure-sdk/resource-manager/fluidrelay/2022-05-26/fluidrelaycontainers
@@ -1118,7 +1120,7 @@ github.com/hashicorp/go-azure-sdk/resource-manager/workloads/2023-04-01/saplands
 github.com/hashicorp/go-azure-sdk/resource-manager/workloads/2023-04-01/saprecommendations
 github.com/hashicorp/go-azure-sdk/resource-manager/workloads/2023-04-01/sapsupportedsku
 github.com/hashicorp/go-azure-sdk/resource-manager/workloads/2023-04-01/sapvirtualinstances
-# github.com/hashicorp/go-azure-sdk/sdk v0.20240610.1112704
+# github.com/hashicorp/go-azure-sdk/sdk v0.20240617.1101532
 ## explicit; go 1.21
 github.com/hashicorp/go-azure-sdk/sdk/auth
 github.com/hashicorp/go-azure-sdk/sdk/auth/autorest
